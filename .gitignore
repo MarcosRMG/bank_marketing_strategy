@@ -1,6 +1,3 @@
-# Local env
-env_bme/
-
 #Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -108,6 +105,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+env_bme/
 .env
 .venv
 env/
